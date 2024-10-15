@@ -14,6 +14,12 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 
 <br/>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sajadaliismail/count.svg?"  />
+</div>
+
 
 ## My Skill Set
 
