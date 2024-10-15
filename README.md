@@ -23,11 +23,6 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajadaliismail/sajadaliismail/output/github-contribution-grid-snake.svg">
 </picture>
 
-## LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sajadaliismail?font=Suwannaphum&ext=heatmap" alt="LeetCode Stats"/>
-</div>
 ## My Skill Set
 
 ###
@@ -48,21 +43,32 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sajadaliismail)
 [![Dev.to](https://img.shields.io/badge/-dev.to-%232B90D9?logo=dev.to&logoColor=white)](https://dev.to/sajadaliismail)
 
+## LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sajadaliismail?font=Suwannaphum&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
 ### Projects and Dev Stuffs:
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
+  <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajadaliismail&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadaliismail&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </div>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
+  <div align='center'>
+
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sajadaliismail&hide_border=true" />
+  </div>
 </details>
 
 ### ✍️ Quotes
