@@ -1,4 +1,4 @@
-### Glad to see you here! &nbsp ;
+### Glad to see you here! ;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadaliismail&label=Profile%20views&color=0e75b6&style=flat" alt="sajadaliismail" /> </p>
 I'm Sajad Ali Ismail, a passionate Full Stack Developer on a journey to constantly learn and build innovative apps. With a strong focus on problem-solving and first-principle thinking, I enjoy creating scalable, impactful solutions using technologies like JavaScript, Node.js, MongoDB, React, Next.js, and AWS.
 
