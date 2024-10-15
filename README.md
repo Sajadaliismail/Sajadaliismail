@@ -1,4 +1,7 @@
-### <div align="center">I'm Sajad Ali Ismail, a MERN Stack developer from India 🚀</div>
+### Glad to see you here! &nbsp;
+I'm Sajad Ali Ismail, a passionate Full Stack Developer on a journey to constantly learn and build innovative apps. With a strong focus on problem-solving and first-principle thinking, I enjoy creating scalable, impactful solutions using technologies like JavaScript, Node.js, MongoDB, React, Next.js, and AWS.
+
+I’m always exploring new tech, pushing myself to grow, and refining my skills in both frontend and backend development. When I’m not deep in code, you’ll find me watching tech-related videos, fueling my curiosity and love for continuous learning.
 
 - 🔭 I’m currently working on [Billable](https://github.com/Sajadaliismail/billable)
 
@@ -10,10 +13,6 @@
 
 <br/>
 
-### Glad to see you here! &nbsp;
-I'm Sajad Ali Ismail, a passionate Full Stack Developer on a journey to constantly learn and build innovative apps. With a strong focus on problem-solving and first-principle thinking, I enjoy creating scalable, impactful solutions using technologies like JavaScript, Node.js, MongoDB, React, Next.js, and AWS.
-
-I’m always exploring new tech, pushing myself to grow, and refining my skills in both frontend and backend development. When I’m not deep in code, you’ll find me watching tech-related videos, fueling my curiosity and love for continuous learning.
 
 ## My Skill Set
 
