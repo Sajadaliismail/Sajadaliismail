@@ -66,7 +66,7 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 
 ### ✍️ Quotes
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?border=true&theme=nord)
 
 ## 🏆 GitHub Trophies
 
