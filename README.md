@@ -17,8 +17,6 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 
 ###
 
-<br clear='both'>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajadaliismail/sajadaliismail/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajadaliismail/sajadaliismail/output/github-contribution-grid-snake.svg">
