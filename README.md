@@ -1,4 +1,4 @@
-### Glad to see you here! &nbsp;
+### Glad to see you here! &nbsp <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajadaliismail&label=Profile%20views&color=0e75b6&style=flat" alt="sajadaliismail" /> </p>; 
 I'm Sajad Ali Ismail, a passionate Full Stack Developer on a journey to constantly learn and build innovative apps. With a strong focus on problem-solving and first-principle thinking, I enjoy creating scalable, impactful solutions using technologies like JavaScript, Node.js, MongoDB, React, Next.js, and AWS.
 
 I’m always exploring new tech, pushing myself to grow, and refining my skills in both frontend and backend development. When I’m not deep in code, you’ll find me watching tech-related videos, fueling my curiosity and love for continuous learning.
@@ -53,9 +53,6 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 ### ✍️ Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sajadaliismail&label=Profile%20views&color=0e75b6&style=flat" alt="sajadaliismail" /> </p>
 
 ## 🏆 GitHub Trophies
 
