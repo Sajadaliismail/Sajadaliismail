@@ -40,7 +40,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadaliismail&label=Profile%20views&color=0e75b6&style=flat" alt="sajadaliismail" /> </p>
 [![](https://visitcount.itsvg.in/api?id=sajadaliismail&icon=3&color=8)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
