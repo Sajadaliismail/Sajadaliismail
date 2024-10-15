@@ -16,10 +16,7 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sajadaliismail/count.svg?"  />
-</div>
-
+<img src="https://raw.githubusercontent.com/Sajadaliismail/Sajadaliismail/output/snake.svg" alt="Snake animation" />
 
 ## My Skill Set
 
