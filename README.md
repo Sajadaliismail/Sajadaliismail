@@ -25,7 +25,7 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sajadaliismail?theme=wtf&font=Suwannaphum&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sajadaliismail?font=Suwannaphum&ext=heatmap)
 
 ## My Skill Set
 
