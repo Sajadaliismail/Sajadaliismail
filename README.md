@@ -29,11 +29,22 @@
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sajadaliismail)
 [![Dev.to](https://img.shields.io/badge/-dev.to-%232B90D9?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sajadaliismail)
 
-# 📊 GitHub Stats:
+### Projects and Dev Stuffs:
 
-![](https://github-readme-stats.vercel.app/api?username=sajadaliismail&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajadaliismail&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadaliismail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajadaliismail&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadaliismail&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sajadaliismail&hide_border=true" />
+</details>
 
 ### ✍️ Random Dev Quote
 
@@ -41,7 +52,6 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadaliismail&label=Profile%20views&color=0e75b6&style=flat" alt="sajadaliismail" /> </p>
-[![](https://visitcount.itsvg.in/api?id=sajadaliismail&icon=3&color=8)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 
