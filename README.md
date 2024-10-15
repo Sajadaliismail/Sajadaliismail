@@ -26,7 +26,7 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 ## LeetCode Stats
 
 <div align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/sajadaliismail?font=Suwannaphum&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/sajadaliismail?font=Suwannaphum&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 ## My Skill Set
 
@@ -68,8 +68,9 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 ### ✍️ Quotes
 
 <div align="center">
-![](https://quotes-github-readme.vercel.app/api?border=true&theme=nord)
+  <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=nord" alt="Quotes"/>
 </div>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sajadaliismail&theme=radical&no-frame=false&no-bg=true&margin-w=4)
