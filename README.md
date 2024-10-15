@@ -23,6 +23,10 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajadaliismail/sajadaliismail/output/github-contribution-grid-snake.svg">
 </picture>
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sajadaliismail?theme=wtf&font=Suwannaphum&ext=heatmap)
+
 ## My Skill Set
 
 ###
