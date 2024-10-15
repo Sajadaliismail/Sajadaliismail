@@ -39,9 +39,9 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25556704)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sajadali_ismail)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sajadaliismail)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sajadaliismail)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sajadaliismail)
-[![Dev.to](https://img.shields.io/badge/-dev.to-%232B90D9?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sajadaliismail)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Sajad-Ali-Ismail)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sajadaliismail)
+[![Dev.to](https://img.shields.io/badge/-dev.to-%232B90D9?logo=dev.to&logoColor=white)](https://dev.to/sajadaliismail)
 
 ### Projects and Dev Stuffs:
 
