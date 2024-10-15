@@ -29,13 +29,19 @@
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sajadaliismail)
 [![Dev.to](https://img.shields.io/badge/-dev.to-%232B90D9?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sajadaliismail)
 
-## Github Stats
+# 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadaliismail&hide_border=true&layout=compact" align="left" />
+![](https://github-readme-stats.vercel.app/api?username=sajadaliismail&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajadaliismail&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadaliismail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=sajadaliismail&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+### ✍️ Random Dev Quote
 
-<br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sajadaliismail&icon=3&color=8)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 
