@@ -14,8 +14,6 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 
 - 📈 My recent project, Círculo, features complex real-time functionalities like WebRTC video calls and Socket.IO notifications
 
-<br/>
-
 ##
 
 <picture>
