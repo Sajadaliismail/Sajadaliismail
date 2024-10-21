@@ -1,6 +1,6 @@
-### Glad to see you here!
+# Glad to see you here!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadaliismail&label=Profile%20views&color=0e75b6&style=flat" alt="sajadaliismail" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadaliismail&label=Profile%20views&color=0e75b6&style=plastic" alt="sajadaliismail" /> 
 <img src="https://img.shields.io/github/followers/sajadaliismail?logo=github&style=plastic&color=facc15&labelColor=0f172a" alt="sajadaliismail" /> </p>
 I'm Sajad Ali Ismail, a passionate Full Stack Developer on a journey to constantly learn and build innovative apps. With a strong focus on problem-solving and first-principle thinking, I enjoy creating scalable, impactful solutions using technologies like JavaScript, Node.js, MongoDB, React, Next.js, and AWS.
 
@@ -16,7 +16,7 @@ I’m always exploring new tech, pushing myself to grow, and refining my skills 
 
 <br/>
 
-###
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajadaliismail/sajadaliismail/output/github-contribution-grid-snake-dark.svg">
